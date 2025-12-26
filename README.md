@@ -7,4 +7,9 @@ Alongside the build, I’ve included a technical walkthrough that breaks down ke
 -- Anwesh
 
 
-![Uploading effeminaresblorb.png…]()
+## Gameplay Preview
+
+![Effeminare’s Blorb Gameplay](effeminaresblorb.png)
+
+*A Unity and C# recreation of Flappy Bird with original assets.*
+
