@@ -4,4 +4,7 @@ The implementation covers player movement and physics, obstacle spawning, collis
 
 Alongside the build, I’ve included a technical walkthrough that breaks down key systems and design decisions, highlighting how Unity’s tools were leveraged to translate simple mechanics into engaging gameplay. This project reflects both my understanding of game development principles and my ability to execute them end-to-end in Unity.
 
-- Anwesh
+-- Anwesh
+
+
+![Uploading effeminaresblorb.png…]()
